@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(0,0,0);
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    /*font-weight: <weight>;*/
+    font-style: normal;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+h2,p{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+
+hr{
+    display: flex;
+    width: 50%;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+}
+
+hr.sep{
+    border-top: 2px dotted grey;
+    border-bottom: 2px dotted grey;
+}
+
+hr.start_section{
+    border-top: 1px dashed grey;
+    border-bottom: 1px dashed grey;
+    width: 10%;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+}
