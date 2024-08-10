@@ -63,5 +63,3 @@ function draw() {
   }
   
 }
-
-
